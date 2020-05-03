@@ -1,0 +1,24 @@
+[ 2020-05-03T11:27:31+08:00 ] 127.0.0.1 /index.php/Admin/Auth/upd/auth_id/105.html
+ERR: 非法操作:upd
+
+[ 2020-05-03T11:27:38+08:00 ] 127.0.0.1 /index.php/Admin/Auth/upd/auth_id/108.html
+ERR: 非法操作:upd
+
+[ 2020-05-03T11:28:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/imgtable.html
+ERR: 非法操作:imgtable
+
+[ 2020-05-03T11:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/imglist.html
+ERR: 非法操作:imglist
+
+[ 2020-05-03T11:28:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/tools.html
+ERR: 非法操作:tools
+
+[ 2020-05-03T11:28:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/computer.html
+ERR: 非法操作:computer
+
+[ 2020-05-03T11:28:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/tab.html
+ERR: 非法操作:tab
+
+[ 2020-05-03T11:28:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/tianjia.html
+ERR: 非法操作:tianjia
+

@@ -1,0 +1,573 @@
+[ 2020-01-12T01:15:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:15:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:16:09+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:18:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:29:53+08:00 ] 127.0.0.1 /index.php/Admin/Manager/
+ERR: 非法操作:index
+
+[ 2020-01-12T01:37:42+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:45:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:46:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T01:50:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T02:26:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/form.html
+ERR: 非法操作:form
+
+[ 2020-01-12T02:26:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/imgtable.html
+ERR: 非法操作:imgtable
+
+[ 2020-01-12T09:03:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:04:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:06:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:10:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:12:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:13:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:14:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:14:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:15:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:15:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:15:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:16:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:18:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:21:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0 AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:23:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:36:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_level` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_level` = 0 
+
+[ 2020-01-12T09:36:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_level` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_level` = 0 
+
+[ 2020-01-12T09:36:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_level` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_level` = 0 
+
+[ 2020-01-12T09:36:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_level` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_level` = 0 
+
+[ 2020-01-12T09:51:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:51:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:51:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:51:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:52:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:53:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:56:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:56:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T09:56:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `auth_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () AND `auth_pid` = 0 
+
+[ 2020-01-12T10:00:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () 
+
+[ 2020-01-12T10:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () 
+
+[ 2020-01-12T10:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE `auth_id` IN () 
+
+[ 2020-01-12T10:53:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/main.html
+ERR: 非法操作:main
+
+[ 2020-01-12T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2020-01-12T11:30:08+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2020-01-12T11:30:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2020-01-12T11:30:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+
+[ 2020-01-12T11:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Role/upd.html
+ERR: 非法操作:upd
+
+[ 2020-01-12T11:42:29+08:00 ] 127.0.0.1 /index.php/Admin/Role/distribute/role_id/31.html
+ERR: 非法操作:distribute
+

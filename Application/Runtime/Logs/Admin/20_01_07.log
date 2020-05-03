@@ -1,0 +1,9 @@
+[ 2020-01-07T22:14:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/34.html
+ERR: Think\Model:I方法不存在！
+
+[ 2020-01-07T22:15:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upd/goods_id/34.html
+ERR: Think\Model:I方法不存在！
+
+[ 2020-01-07T22:24:19+08:00 ] 127.0.0.1 /index.php/Admin/Manager/showlist
+ERR: 非法操作:showlist
+

@@ -1,0 +1,80 @@
+[ 2020-01-12T03:32:30+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ypy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ypy' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2020-01-12T03:34:54+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ypy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ypy' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2020-01-12T03:39:38+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ypy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ypy' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2020-01-12T03:39:46+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ypy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ypy' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2020-01-12T03:40:01+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=tommm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'tommm' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2020-01-12T03:40:05+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ypy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ypy' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2020-01-12T03:40:12+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=ypy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'ypy' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2020-01-12T03:40:25+08:00 ] 127.0.0.1 /index.php/Home/User/checkName?mingzi=y
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `sw_user` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `sw_user` WHERE `username` = 'y' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
